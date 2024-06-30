@@ -2,23 +2,12 @@
 
 Welcome to my GitHub profile! I'm currently a **fourth-year Computer Science and Engineering student at the Indian Institute of Technology, Goa**. I am passionate about software development, algorithmic problem-solving, and exploring the cutting-edge of technology.
 
-![Profile Picture](https://via.placeholder.com/150) <!-- You can replace this with your actual profile picture URL -->
 
 ## 📚 Education
 - **B.Tech in Computer Science and Engineering**  
   Indian Institute of Technology, Goa  
   **CGPA:** 9.00/10  
   2021 – Present
-
-- **Class 12, CBSE**  
-  St. Michael’s Convent School, Sanchar Vihar, Gonda, U.P.  
-  **Aggregate:** 96.4%  
-  2020
-
-- **Class 10, CBSE**  
-  St. Michael’s Convent School, Sanchar Vihar, Gonda, U.P.  
-  **Aggregate:** 95.6%  
-  2018
 
 ## 💼 Experience
 **Research and Development Intern**  
@@ -30,7 +19,7 @@ Welcome to my GitHub profile! I'm currently a **fourth-year Computer Science and
 - Evaluating design response delays for coverage reports and testing signals impacting specific coverpoints.
 
 ## 🌟 Projects
-### [URL Shortening App](https://github.com/shobhitchauhan/url-shortener) 📎
+### [URL Shortening App](https://urlshortify.onrender.com/) 📎
 - A URL shortening service using the MERN stack and Material-UI.
 - Backend implemented with Node.js and Express.js, handling secure URL encryption.
 - Unique 7-letter shortened URLs, optimized database storage with hashed mappings.
