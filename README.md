@@ -24,12 +24,12 @@ Welcome to my GitHub profile! I'm currently a **fourth-year Computer Science and
 - Backend implemented with Node.js and Express.js, handling secure URL encryption.
 - Unique 7-letter shortened URLs, optimized database storage with hashed mappings.
 
-### [Live Weather Project](https://github.com/shobhitchauhan/weather-app) ☁️
+### [Live Weather Project](https://skycast-440k.onrender.com/) ☁️
 - Built with the MERN stack, featuring live weather updates for user-specified cities.
 - Backend saves recent searches; integrated with a weather API for comprehensive data.
 - Implemented JWT-based user authentication for secure access.
 
-### [Cryptography: Reed Solomon Encoder App](https://github.com/shobhitchauhan/reed-solomon-encoder) 🔒
+### [Cryptography: Reed Solomon Encoder App](https://encodedv.onrender.com/) 🔒
 - Numeric message encoder using React.js and Material-UI.
 - Leveraged Reed-Solomon Encoding Scheme for both classical and systematic encoding.
 - Features include a scrollable PGM window and copy-to-clipboard functionality.
@@ -48,14 +48,13 @@ Welcome to my GitHub profile! I'm currently a **fourth-year Computer Science and
 - **MIPS ISA, UVM, Xilinx Vivado, QtSpim, VHDL, AutoCAD, SolidWorks, LaTeX, MS Word, MS Excel**
 
 ## 🏆 Achievements
-- **Flipkart Grid 5.0**: Led a team to secure top 1% ranking among 1.5 lakh+ teams. Advanced to Round 2. [Certificate](https://example.com/cert)
+- **Flipkart Grid 5.0**: Led a team to secure top 1% ranking among 1.5 lakh+ teams. Advanced to Round 2. [Certificate](https://drive.google.com/file/d/1EkU-Z8Cp0NNqVu9oECd277g5Up6C5ReO/view?usp=drive_link)
 - **Competitive Coding**: Solved 840+ problems across LeetCode (max. Knight, 1911 rating), Codeforces (max. Specialist, 1421 rating), and CodeChef (3*).
 - **IIT-JEE Advanced**: Top 3% among 250K+ candidates and Top 0.8% in JEE Mains among 1.1M+ candidates.
 - **CBSE Board Exams**: 2nd rank in district for Class 12, and top 0.1% in Class 10 among 1.5M+ students.
 
 ## 📫 Contact
 - **Email**: [shobhit.chauhan.21031@iitgoa.ac.in](mailto:shobhit.chauhan.21031@iitgoa.ac.in)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/shobhitchauhan)
-- **GitHub**: [GitHub Profile](https://github.com/shobhitchauhan)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shobhit-chauhan-7491bb203)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas! Looking forward to connecting with you.
